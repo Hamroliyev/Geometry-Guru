@@ -1,2 +1,2 @@
-# Geometry-Guru-
+# Geometry-Guru
 Geometry Guru.
